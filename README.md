@@ -1,1 +1,1 @@
-This is a repp for self-learn eecs498.
+This is a repp for self-learning eecs498.
